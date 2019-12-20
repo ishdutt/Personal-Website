@@ -6,6 +6,3 @@ This repo contains an easy-to-customize personal dev portfolio template that was
 
 add blog
 
-## License
-
-Completely free (MIT)! See [LICENSE.md](LICENSE.md) for more.
